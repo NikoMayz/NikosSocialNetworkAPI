@@ -3,9 +3,9 @@
 
 # <h3>Description<h3>
 
-AS A social media startupI WANT an API for my social network that uses a NoSQL databaseSO THAT my website can handle large amounts of unstructured data
-My application will be able to handle large amounts of data    needed for a social network
-I have learned the power and flexibility of NoSQL.
+My motivation was to build a social network API using NOSQL and mongoDB. 
+Social media apis need to be fast and be able to handle large amounts of unstructured data. My application provides that. 
+I have learned the power and flexiblity of NOSQL. 
 
 # <h3>Table of Contents<h3>
 
@@ -27,7 +27,10 @@ I have learned the power and flexibility of NoSQL.
 
 # <h4>Landing Page<h4>
 
-<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="NikosSocialNetworkAPi" src="https://bootcampspot.instructuremedia.com/embed/0e35aed3-767c-493a-9893-c312acf9e0d6" frameborder="0"></iframe>
+## Demo Video
+[![Watch the demo](./images/Screenshot%202024-08-11%20at%209.03.26%20PM.png)](https://bootcampspot.instructuremedia.com/embed/0e35aed3-767c-493a-9893-c312acf9e0d6)
+
+
 
 - I am able to successfully create, update, and delete users and thoughts in my database.
 
